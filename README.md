@@ -39,8 +39,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/yash-23092001">
-  <img height="200" width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-23092001&theme=great-gatsby&layout=compact&langs_count=10" />
+  <img height="300" width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-23092001&theme=great-gatsby&layout=compact&langs_count=10" />
 </a>
 <a href="https://github.com/yash-23092001">
- <img height="350" width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=yash-23092001&show_icons=true&theme=great-gatsby&line_height=27" alt="Yash's github stats"/>
+ <img height="350" width="450" align="center" src="https://github-readme-stats.vercel.app/api?username=yash-23092001&show_icons=true&theme=great-gatsby&line_height=27" alt="Yash's github stats"/>
 </a>
